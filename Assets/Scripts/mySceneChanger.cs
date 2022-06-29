@@ -37,7 +37,7 @@ public class mySceneChanger : MonoBehaviour
 
     public void loadDonate()
     {
-        Application.OpenURL("https://www.paypal.me/enorabf");
+        Application.OpenURL("https://github.com/baronefernando");
     }
 
 }
